@@ -9,6 +9,8 @@ const App = () => {
   )
 }
 
+// jhgjhghj
+
 export default App
 
 const styles = StyleSheet.create({})
